@@ -7,3 +7,5 @@ In this project:
 * methods to deal with categorical features like one-hot encoding and counters
 * methods for feature selection
 * probabilities binarization methods
+
+Initial task description located in file "task.ipynb".
